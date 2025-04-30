@@ -62,11 +62,7 @@
 
 ###
 
-<img align="right" height="225" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF0NWZ2d2p3eDZqMG94bGUwazRuMnE4bGxya2Y2eTZrcXE1eXQydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/MateusdeNovaesSantos/MateusdeNovaesSantos/output/snake.svg" alt="Snake animation" />
+<img align="center" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnF0NWZ2d2p3eDZqMG94bGUwazRuMnE4bGxya2Y2eTZrcXE1eXQydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eSwGh3YK54JKU/giphy.gif"  />
 
 ###
 
