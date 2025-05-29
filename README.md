@@ -28,7 +28,7 @@
 ### 🔧 Working on
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MateNo&locale=pt-br&theme=graywhite&layout=compact&hide_border=false" 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MateNo&locale=pt-br&theme=gruvbox_light&layout=compact&hide_border=false" 
     width="full"
     height="200" 
     alt="WakaTime graph" />
