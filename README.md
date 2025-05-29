@@ -1,4 +1,4 @@
-###🎯Hi, I'm Mateus! Data Analyst who loves to transform numbers into stories that make sense.
+### 🎯Hi, I'm Mateus! Data Analyst who loves to transform numbers into stories that make sense.
 
 ---
 
@@ -9,4 +9,4 @@
 
 ---
 
-<h2 align="left">🔧 Working on</h2>
+### 🔧 Working on
