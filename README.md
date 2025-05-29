@@ -1,4 +1,4 @@
-### 🎯Hi, I'm Mateus! Data Analyst who loves to transform numbers into stories that make sense.
+### 🎯Hi, I'm Mateus! Full Stack and Data Analyst who loves to transform numbers into stories that make sense.
 
 ---
 
