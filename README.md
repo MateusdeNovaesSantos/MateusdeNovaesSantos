@@ -15,10 +15,10 @@
     alt="stats graph" />
   -->
   
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusdeNovaesSantos&locale=pt-br&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" 
+  <img src="https://github-stats-extended.vercel.app/api?username=MateusdeNovaesSantos&locale=pt-br&theme=merko&show_icons=true&include_all_commits=true&hide_border=true" 
     height="170" 
     alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusdeNovaesSantos&locale=pt-br&theme=gruvbox_light&layout=compact&langs_count=5&hide_border=false" 
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MateusdeNovaesSantos&locale=pt-br&theme=gruvbox_light&layout=compact&langs_count=5&hide_border=false" 
     height="170" 
     alt="languages graph" />
 </div>
@@ -28,6 +28,6 @@
 ### 🔧 Working on
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MateNo&locale=pt-br&theme=gruvbox_light&layout=compact&hide_border=false" 
+  <img src="https://github-stats-extended.vercel.app/api/wakatime?username=MateNo&locale=pt-br&theme=gruvbox_light&layout=compact&hide_border=false" 
     alt="WakaTime graph" />
 </div>
